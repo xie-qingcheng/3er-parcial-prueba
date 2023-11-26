@@ -1,37 +1,41 @@
 @import url('https://fonts.googleapis.com/css2?family=Epilogue:wght@300&family=Roboto:ital,wght@0,400;1,100&family=Space+Grotesk:wght@700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@300&family=Epilogue:wght@300&family=Roboto:ital,wght@0,400;1,100&family=Space+Grotesk:wght@700&display=swap');
 
-  .Syntrax {
-    font-family: 'Space Grotesk', sans-serif;
-    color: #000;
-    font-size: 25px;
-    padding-top: 28.5px;
-    display: block;
-  }
-  
-  nav ul {
-    list-style: none;
-    display: flex;
-    gap: 50px;
-    float: right;
-    padding-top: 26.5px;
-  }
-  
-  nav a {
-    font-family: "be vietnam", sans-serif;
-    color: rgb(139, 139, 139);
-    text-decoration: none;
-  }
-  
-  .no-underline {
-    text-decoration: none;
-  }
+.Syntrax {
+  font-family: 'Space Grotesk', sans-serif;
+  color: #000;
+  font-size: 25px;
+  padding-top: 28.5px;
+  display: block;
+}
 
-  .inpage {
-    color: #f092cb;
-  }
 
-  nav a:hover {
-    text-decoration: underline;
-  }
+nav ul {
+  list-style: none;
+  display: flex;
+  gap: 50px;
+  float: right;
+  padding-top: 26.5px;
+}
 
+nav a {
+  font-family: "be vietnam", sans-serif;
+  color: rgb(139, 139, 139);
+  text-decoration: none;
+}
+
+.no-underline {
+  text-decoration: none;
+}
+
+.inpage {
+  color: #f092cb;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
+
+.morado {
+  color: #6155A6;
+}
