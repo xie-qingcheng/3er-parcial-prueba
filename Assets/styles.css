@@ -59,3 +59,9 @@ nav a:hover {
   border-radius: 40px;
   font-weight: bold;
 }
+
+#charact img{
+  margin-left: 20%;
+  height: 25%;
+  width: 25%;
+}
