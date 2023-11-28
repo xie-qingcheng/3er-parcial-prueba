@@ -68,11 +68,20 @@ nav a:hover {
   padding-top: 7%;
 }
 
-
 #charact img {
   display:flex;
   margin-left: 60%;
   height: fit-content;
   width: fit-content;
   float: left;
+}
+
+.form{
+  border-left: none;
+  border-right: none;
+  border-top: none;
+  outline: none;
+  resize: none;
+  padding: 5% 50px 5% 0px;
+  margin-left:6px;
 }
