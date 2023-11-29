@@ -82,6 +82,39 @@ nav a:hover {
   border-top: none;
   outline: none;
   resize: none;
-  padding: 5% 50px 5% 0px;
+  padding: 5% 259px 5% 0px;
   margin-left:6px;
+  color: #303030;
+}
+
+#Contact{
+  margin-top: 4%;
+}
+
+.text h2{
+  font-size: 30px;
+  color: #303030;
+}
+
+.text p{
+  font-size: 20px;
+}
+
+#Contact img{
+  float:inline-start;
+}
+
+
+#footer {
+  background-color: #F8F8F8;
+  padding-top: 25px;
+  height: 500px;
+}
+
+.contacto img{
+  float: left;
+}
+
+.copyright img{
+  float: left;
 }
