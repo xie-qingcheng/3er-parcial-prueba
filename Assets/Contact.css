@@ -40,10 +40,6 @@ nav a:hover {
   color: #6155A6;
 }
 
-#charact {
-  margin-top: 25px;
-}
-
 .more {
   background-color: #F092CB;
   border: none;
@@ -62,18 +58,6 @@ nav a:hover {
 
 .more:hover{
   text-decoration:underline;
-}
-
-#experience {
-  padding-top: 7%;
-}
-
-#charact img {
-  display:flex;
-  margin-left: 60%;
-  height: fit-content;
-  width: fit-content;
-  float: left;
 }
 
 .form{

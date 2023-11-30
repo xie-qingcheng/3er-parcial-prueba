@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Epilogue:wght@300&family=Roboto:ital,wght@0,400;1,100&family=Space+Grotesk:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@300&family=Epilogue:wght@300&family=Roboto:ital,wght@0,400;1,100&family=Space+Grotesk:wght@700&display=swap');
+
+.Syntrax {
+  font-family: 'Space Grotesk', sans-serif;
+  color: #000;
+  font-size: 25px;
+  padding-top: 28.5px;
+  display: block;
+}
+
+
+nav ul {
+  list-style: none;
+  display: flex;
+  gap: 50px;
+  float: right;
+  padding-top: 26.5px;
+}
+
+nav a {
+  font-family: "be vietnam", sans-serif;
+  color: rgb(139, 139, 139);
+  text-decoration: none;
+}
+
+.no-underline {
+  text-decoration: none;
+}
+
+.inpage {
+  color: #f092cb;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
+
+.morado {
+  color: #6155A6;
+}
+
+#charact {
+  margin-top: 25px;
+}
+
+.more {
+  background-color: #F092CB;
+  border: none;
+  color: white;
+  padding: auto;
+  width: 160px;
+  height: 60px;
+  text-align: center;
+  display: inline-block;
+  font-size: 18px;
+  margin: 4px 2px;
+  margin-top: 20px;
+  border-radius: 40px;
+  font-weight: 600;
+}
+
+.more:hover{
+  text-decoration:underline;
+}
+
+#experience {
+  padding-top: 7%;
+}
+
+#charact img {
+  display:flex;
+  margin-left: 60%;
+  height: fit-content;
+  width: fit-content;
+  float: left;
+}
+
+.form{
+  border-left: none;
+  border-right: none;
+  border-top: none;
+  outline: none;
+  resize: none;
+  padding: 5% 259px 5% 0px;
+  margin-left:6px;
+  color: #303030;
+}
